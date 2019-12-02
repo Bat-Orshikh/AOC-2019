@@ -1,2 +1,2 @@
 # AOC-2019
-this is just test
+this is just a test
